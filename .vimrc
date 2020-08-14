@@ -101,8 +101,6 @@ augroup END
 let python_highlight_all = 1
 """""""""""""""""""""""""""""""
 
-let g:pydiction_location = "/home/hufei/.vim/ftplugin/pydiction/complete-dict"
-
 function! SetDiffEnviron()
   set diff
   set scrollbind
